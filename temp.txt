@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is the temp file in the commclassroomOP repo 
 My name is Rhythm 
 I am learning github
+=======
+ 
+>>>>>>> c2737aca3bcb5b2b7644232de0cadc02f6d28a2a
